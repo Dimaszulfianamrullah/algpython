@@ -1,5 +1,5 @@
 """
-@Author : Mie Ayam The Best
+@Author :221
 """
 jwb = "y"
 
